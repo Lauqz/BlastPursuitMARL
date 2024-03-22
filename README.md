@@ -1,5 +1,3 @@
-# mas-project-laudenzi-osman-ay2223
-
 # BlastPursuit
 
 ## Overview
