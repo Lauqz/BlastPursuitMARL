@@ -8,10 +8,8 @@ To use BlastPursuit, follow these steps:
 
 - Clone the repository:
 ```
-cd existing_repo
-git remote add origin https://gitlab.com/pika-lab/courses/mas/projects/mas-project-laudenzi-osman-ay2223.git
-git branch -M main
-git push -uf origin main
+cd repo_folder
+git clone https://github.com/Lauqz/BlastPursuitMARL.git
 ```
 
 - Install the required packages using pip:
